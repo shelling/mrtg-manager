@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/MRTG-Manager.t
+lib/MRTG/Manager.pm

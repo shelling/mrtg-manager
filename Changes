@@ -1,0 +1,6 @@
+Revision history for Perl extension MRTG::Manager.
+
+0.01  Wed Mar  4 21:30:01 2009
+	- original version; created by h2xs 1.23 with options
+		-X -n MRTG::Manager
+
